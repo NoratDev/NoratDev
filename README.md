@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+<img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/4cc49ac5-f0d8-404b-bd8a-ec3b184db989" />
+</div>
 
-<!--
-**NoratDev/NoratDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `Norat Dev`
 
-Here are some ideas to get you started:
+Olá me chamo **Gabriel Norat**, atualmente curso Análise e Desenvolvimento de Sistemas e tenho mais afinidade com a parte de back-end. No momento atual estudo e pratico **Python**. Gosto de fazer projetos autorais e sempre busco melhora-los, otimizando, trazendo códigos limpos e buscando aprender.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "nome": "Gabriel Norat"
+  "foco": "Back-end"
+  "localização": "São Paulo, SP - Brasil"
+  "stack": ["Python"]
+  "estudando": ["SQL", "Git e Github", "Estrutura de dados", "POO"]
+  "ferramentas": ["VScode","Github"]
+}
+```
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,vscode,github)](https://skillicons.dev)"
+</div>
